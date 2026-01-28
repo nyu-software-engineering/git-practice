@@ -87,6 +87,6 @@ In this part, we will practice the **forking workflow**, also known as the **ope
 2.  If the pull request changes you dislike, leave a response indicating why you have not accepted them, asking the other contributor to fix the problems
 3.  Once you are happy with the changes, accept them
 4.  Pull the updated files to the local repository of your project
-5.  Merge any and all branches to the 'master' branch
+5.  Merge any and all branches to the `main`/`master` branch (whichever is the default in your repository)
 6.  Commit any changes, including a meaningful commit message
 7.  Push the result to the remote repository on GitHub
