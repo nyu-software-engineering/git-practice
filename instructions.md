@@ -32,11 +32,11 @@ In this part, we will try out a simple **centralized workflow**, where developer
 1.  Clone your remote repository on GitHub to your own local machine.
 
 2.  Create a `README.md` file in that directory using valid Markdown syntax. **Edit** this file such that it includes the following:
-    - a link to an article or web site you find interesting related to software development/engineering (indirect relationships are ok)
+    - a link to an article that you find interesting related to software development/engineering (indirect relationships are ok)
     - a paragraph or two about what you find interesting about that article
     - remember that this will be public
     - Use Markdown syntax to make it look nice
-3.  **Commit** your `README.md`` file to the local repository, including a meaningful commit message.
+3.  **Commit** your `README.md` file to the local repository, including a meaningful commit message.
 
 ### Push changes to the upstream remote repository
 
