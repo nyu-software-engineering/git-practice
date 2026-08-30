@@ -56,7 +56,7 @@ Create a new repository on GitHub. If you are viewing this document in your own 
 
 ### Share your repository with others
 
-1.  Share the link to your GitHub repository on the course's Discord workspace and invite others to collaborate... they will do so via the **forking workflow** outlined below.
+1.  Share the link to your GitHub repository using the course's messaging app and invite others to collaborate... they will do so via the **forking workflow** outlined below.
 
 ## Forking workflow
 
@@ -103,7 +103,7 @@ In order for Pull Requests on GitHub to be counted as yours, it is necessary tha
 
 ### Accept contributions to your repository
 
-1.  Make sure at least one other student has made a pull request with some changes to your own original repository - use Discord to coordinate this.
+1.  Make sure at least one other student has made a pull request with some changes to your own original repository - use the course's messaging app to coordinate this.
 2.  If the pull request changes you dislike, leave a response indicating why you have not accepted them, asking the other contributor to fix the problems.
 3.  Once you are happy with the changes, accept them.
 4.  Pull the updated files to the local repository of your project.
