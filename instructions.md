@@ -30,7 +30,7 @@ You will `commit` changes to your local copy and `push` them to your remote copy
 
 ### Create a remote repository on GitHub
 
-Create a new repository on GitHub. If you are viewing this document in your own repository or a repository that has been created for you by your instructor or automatically by **GitHub Classroom**, then this is already done!
+Create a new repository on GitHub. If you are viewing this document in your own fork of a repository supplied by your instructor, then this is already done!
 
 ### Clone it to your local computer
 
