@@ -30,11 +30,11 @@ You will `commit` changes to your local copy and `push` them to your remote copy
 
 ### Create a remote repository on GitHub
 
-Create a new repository on GitHub. If you are viewing this document in your own fork of a repository supplied by your instructor, then this is already done!
+Create a new `Fork` of this repository on GitHub - this creates a clone of it in your own GitHub account. The fork copy in your own account (i.e. your own "`remote`" copy) is the copy that you will continue to work on.
 
 ### Clone it to your local computer
 
-1.  Clone your remote repository on GitHub to your own local machine.
+1.  Clone your remote repository on GitHub to your own local machine (i.e. create a "`local`" clone of your "`remote`").
 
 2.  Create a `README.md` file in that directory using valid Markdown syntax. **Edit** this file such that it includes the following:
     - a link to an article that you find interesting related to software development/engineering (indirect relationships are ok)
@@ -48,10 +48,10 @@ Create a new repository on GitHub. If you are viewing this document in your own 
     - If your commits do not meet these requirements, fix the mistakes. Make some small changes to your `README.md` file and try committing again.
     - Do not move forward until you are sure your commits are showing up correctly in the logs according to our requirements.
 
-### Push changes to the upstream remote repository
+### Push changes to the remote repository
 
 1.  **Push** the latest version of the files in your local repository to the GitHub repository you created.
-1.  Your two repositories should now be in-sync.
+1.  Your two repositories (the local and the remote) should now be in-sync.
 1.  Verify this by visiting your remote repository in a web browser and confirming that the `README.md` file there shows all the same changes you made on your own local copy.
 
 ### Share your repository with others
