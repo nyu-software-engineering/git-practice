@@ -32,6 +32,12 @@ You will `commit` changes to your local copy and `push` them to your remote copy
 
 Create a new `Fork` of this repository on GitHub - this creates a clone of it in your own GitHub account. The fork copy in your own account (i.e. your own "`remote`" copy) is the copy that you will continue to work on.
 
+### Detach your fork from the original
+
+Once you've made a `fork` of the repository, go to your forked copy's settings and at the very bottom of the settings click the `Leave fork network` button.
+
+Completing this step makes it possible for others to fork your repository as part of the, which is what you need in order to complete the `forking workflow` part of the assignment.
+
 ### Clone it to your local computer
 
 1.  Clone your remote repository on GitHub to your own local machine (i.e. create a "`local`" clone of your "`remote`").
@@ -69,6 +75,7 @@ You will `commit` changes to your local copy of the repository, `push` those cha
 In order for Pull Requests on GitHub to be counted as yours, it is necessary that your GitHub username matches exactly your `git` username and that you do not have any other `Name` value in your GitHub Profile.
 
 - Go to your GitHub Profile page in your web browser and remove any `Name` value in your profile. Save any changes.
+- On your own computer, run the `git config --global user.name` command and ensure that your git username and GitHub username are the same. If they are different, change one to match the other.
 
 ### Find another repository to work with
 

@@ -1,4 +1,8 @@
 {
+  "attribution": {
+    "commit": "bloombot",
+    "pr": "bloombot"
+  },
   "hooks": {
     "PostToolUse": [
       {
